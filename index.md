@@ -75,8 +75,8 @@ So the next time you see an earthquake headline from somewhere along the Ring of
 
 ## Data and code
 
-- **Primary dataset:** USGS Earthquake Catalog (M4.5+, past 30 days). The exact CSV used here is included in this repo: [USGS_EarthQuake.csv](https://github.com/wonhyunroh/earthquake-viz/blob/main/USGS_EarthQuake.csv).
-- **Analysis notebook:** [View on GitHub](https://github.com/wonhyunroh/earthquake-viz/blob/main/Workbook.ipynb). All charts on this page are produced by the notebook.
+- **Primary dataset:** USGS Earthquake Catalog (M4.5+, past 30 days). The exact CSV used here is included in this repo: [USGS_EarthQuake.csv](https://github.com/wonhyunroh/wonhyunroh.github.io/blob/main/projects/earthquake-viz/USGS_EarthQuake.csv).
+- **Analysis notebook:** [View on GitHub](https://github.com/wonhyunroh/wonhyunroh.github.io/blob/main/projects/earthquake-viz/Workbook.ipynb). All charts on this page are produced by the notebook.
 - **Tectonic plate boundary map (image):** USGS, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Plates_tect2_en.svg).
 - **Tectonic plate boundary dataset (referenced for further reading):** Hugo Ahlenius, *World tectonic plates and boundaries*, [github.com/fraxen/tectonicplates](https://github.com/fraxen/tectonicplates).
 - **"Ring of Fire" background reading:** USGS, [Ring of Fire](https://www.usgs.gov/faqs/what-ring-fire).
